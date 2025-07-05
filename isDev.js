@@ -1,4 +1,4 @@
-const isDev = false;
+
 
 if (!isDev){
     const script = document.createElement('script');
